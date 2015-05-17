@@ -1,0 +1,5 @@
+<root>
+  <item name='net.openhft.chronicle.map.ChronicleMapBuilder net.openhft.chronicle.map.ChronicleMap&lt;K,V&gt; createPersistedTo(java.io.File)'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+</root>
